@@ -40,9 +40,9 @@ This document provides essential notes on the importance of network planning and
 
 - **Definition:** The ability to adapt to future growth.
 - **Strategies:**
-  - **Modular Equipment:** Easily upgradeable components.
-  - **Cloud Services:** Offload resources for flexibility.
-  - **Wireless Solutions:** Expand without extensive wiring.
+- **Modular Equipment:** Easily upgradeable components.
+- **Cloud Services:** Offload resources for flexibility.
+- **Wireless Solutions:** Expand without extensive wiring.
 
 ---
 
